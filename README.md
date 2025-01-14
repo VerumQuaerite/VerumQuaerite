@@ -7,7 +7,7 @@ I'm Kai. Really trying to boost up my rust statistic here.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VerumQuaerite&show_icons=true&theme=radical&count_private=true)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VerumQuaerite&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **VerumQuaerite/VerumQuaerite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
