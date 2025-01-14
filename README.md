@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Kai.
+I'm Kai. Really trying to boost up my rust statistic here.
 
 ### Top Languages
 
