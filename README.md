@@ -7,8 +7,7 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 
 *   🚀  I'm currently working on [Personal Project](http://github.com/VerumQuaerite/karat)
 *   🧠  I'm learning Fortran
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuaerite&layout=compact&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuaerite&size_weight=0.5&count_weight=0.5)
 
   ### Skills 
