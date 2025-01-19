@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I mainly use rust for my projects. I also do a bit of lua, and python.
 
 *   🚀  I'm currently working on [Personal Project](http://github.com/VerumQuaerite/karat)
-*   🧠  I'm learning Fortran
+*   🧠  I'm learning Fortran and Haskell
 
 
 
