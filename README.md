@@ -9,6 +9,7 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 *   🧠  I'm learning Fortran
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuaerite&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuaerite&size_weight=0.5&count_weight=0.5)
 
   ### Skills 
 <p align="left">
