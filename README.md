@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Kai. Really trying to boost up my rust statistic here.
+https://img.shields.io/badge/Verum_Quaerite-blue
 
 ### Top Languages
 
