@@ -13,8 +13,8 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
   ### Skills 
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-              
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuaerite&size_weight=0.5&count_weight=0.5)
+
 ![Alt text](./3D_contribution.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerumQuaerite&size_weight=0.5&count_weight=0.5)
 
 
