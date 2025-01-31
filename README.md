@@ -9,7 +9,7 @@ I mainly use rust for my projects. I also do a bit of lua, and python.
 *   🚀  I'm currently working on [Personal Project](http://github.com/VerumQuaerite/karat)
 *   🧠  I'm currently learning [Zig](https://ziglang.org/)
 *   ☛  I've created a repository for you to start learning rust.
-  By providing an example for each concept. (It's currently only available in Bahasa Indonesia, but I'll make sure to provide you with the en version once i covered all of the concept/subjects.
+  By providing an example for each concept. (It's currently only available in Bahasa Indonesia, but I'll make sure to provide you with the en version once i covered all of the concept/subjects.)
 
 
 
